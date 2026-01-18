@@ -1,0 +1,17 @@
+{
+  "name": "ryn-bot-react",
+  "version": "1.0.0",
+  "description": "Auto Notify React to Owner",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "@whiskeysockets/baileys": "npm:jagproject",
+    "@hapi/boom": "^10.0.1",
+    "express": "^4.18.2",
+    "pino": "^7.0.5",
+    "readline": "1.1.0",
+    "fs-extra": "^10.0.0"
+  }
+}
